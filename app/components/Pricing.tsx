@@ -52,7 +52,7 @@ export default function Pricing() {
         'Mobile Customer App (Android)',
         'Shiprocket Integration (courier, tracking, COD, and returns setup)',
         'WhatsApp & Email Notifications (order confirmation, shipment, delivery)',
-        'Get yours customized logo',
+        'Get your customized logo',
         'Performance optimization & automated backups',
         'Dedicated 60-day launch support + training',
         'Timeline: 2-3 weeks',

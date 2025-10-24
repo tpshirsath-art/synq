@@ -64,7 +64,7 @@ export default function FinalCTA() {
             viewport={{ once: true }}
             className="text-sm md:text-2xl text-gray-300 mb-8 leading-relaxed max-w-3xl mx-auto text-center"
           >
-            Join 50+ suppliers who've already automated their business and are growing faster than ever.
+            Join 50+ suppliers who&apos;ve already automated their business and are growing faster than ever.
           </motion.p>
 
           {/* Value Proposition */}

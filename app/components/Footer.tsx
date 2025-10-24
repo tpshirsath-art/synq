@@ -22,7 +22,7 @@ export default function Footer() {
               <span className="text-xl md:text-2xl font-bold text-white">Synq</span>
             </div>
             <p className="text-sm md:text-lg text-gray-300 font-medium">
-              Synq — powering India's next-gen suppliers.
+              Synq — powering India&apos;s next-gen suppliers.
             </p>
           </div>
 

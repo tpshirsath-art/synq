@@ -227,7 +227,7 @@ export default function Hero() {
             transition={{ duration: 0.6, delay: 0.4 }}
             className="text-sm md:text-2xl text-gray-300 mb-8 md:mb-8 leading-relaxed max-w-xs md:max-w-3xl mx-auto text-center"
           >
-            If you're still taking orders on WhatsApp, you're losing customers
+            If you&apos;re still taking orders on WhatsApp, you&apos;re losing customers
           </motion.p>
 
           {/* Additional Value Proposition */}
@@ -332,7 +332,7 @@ export default function Hero() {
                 <div className="flex items-center justify-between">
                   <div>
                     <h2 className="text-lg md:text-2xl font-bold text-gray-900">Ecommerce Dashboard</h2>
-                    <p className="text-sm md:text-base text-gray-600">Here's what's going on at your business right now</p>
+                    <p className="text-sm md:text-base text-gray-600">Here&apos;s what&apos;s going on at your business right now</p>
                   </div>
                   <div className="flex items-center space-x-4">
                     <div className="relative hidden md:block">

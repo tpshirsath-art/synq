@@ -131,7 +131,7 @@ export default function Services() {
               </div>
               <h4 className="font-semibold text-white mb-1 text-sm md:text-base">Customer Orders</h4>
               <p className="text-xs md:text-sm text-gray-300">Via website or mobile app</p>
-              <p className="text-xs text-gray-400 mt-2 italic">"Your customers place orders 24/7 without any manual intervention"</p>
+              <p className="text-xs text-gray-400 mt-2 italic">&ldquo;Your customers place orders 24/7 without any manual intervention&rdquo;</p>
             </div>
             
             <div className="hidden md:block">
@@ -144,7 +144,7 @@ export default function Services() {
               </div>
               <h4 className="font-semibold text-white mb-1 text-sm md:text-base">Auto Processing</h4>
               <p className="text-xs md:text-sm text-gray-300">Admin dashboard handles everything</p>
-              <p className="text-xs text-gray-400 mt-2 italic">"Orders get processed, inventory updates, and payments are confirmed automatically"</p>
+              <p className="text-xs text-gray-400 mt-2 italic">&ldquo;Orders get processed, inventory updates, and payments are confirmed automatically&rdquo;</p>
             </div>
             
             <div className="hidden md:block">
@@ -157,7 +157,7 @@ export default function Services() {
               </div>
               <h4 className="font-semibold text-white mb-1 text-sm md:text-base">Shipping Automation</h4>
               <p className="text-xs md:text-sm text-gray-300">Auto fulfillment & tracking</p>
-              <p className="text-xs text-gray-400 mt-2 italic">"Shipping labels are generated and customers get real-time tracking updates"</p>
+              <p className="text-xs text-gray-400 mt-2 italic">&ldquo;Shipping labels are generated and customers get real-time tracking updates&rdquo;</p>
             </div>
             
             <div className="hidden md:block">
@@ -170,7 +170,7 @@ export default function Services() {
               </div>
               <h4 className="font-semibold text-white mb-1 text-sm md:text-base">Analytics</h4>
               <p className="text-xs md:text-sm text-gray-300">Track performance & growth</p>
-              <p className="text-xs text-gray-400 mt-2 italic">"You get insights on sales trends, customer behavior, and growth opportunities"</p>
+              <p className="text-xs text-gray-400 mt-2 italic">&ldquo;You get insights on sales trends, customer behavior, and growth opportunities&rdquo;</p>
             </div>
           </div>
         </motion.div>
