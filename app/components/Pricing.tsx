@@ -85,7 +85,7 @@ export default function Pricing() {
             Simple <span className="gradient-text">Pricing</span>
           </h2>
           <p className="text-sm md:text-xl text-gray-300 max-w-3xl mx-auto mb-8 text-center">
-            Choose the plan that fits your business needs. All plans include setup, training, and ongoing support.
+            Choose the plan that fits your business needs. All plans are one-time payments and include setup, training, and ongoing support.
           </p>
 
         </motion.div>
@@ -128,7 +128,7 @@ export default function Pricing() {
                     )}
                   </div>
                   <p className="text-xs md:text-sm text-gray-400 mt-1">
-                    per month
+                    one-time cost
                   </p>
                 </div>
               </div>
