@@ -64,8 +64,8 @@ export default function ProblemSolution() {
     },
     {
       icon: Bot,
-      title: 'WhatsApp Automation',
-      description: 'Auto-respond to inquiries, send order confirmations, payment reminders'
+      title: 'AI WhatsApp Agent',
+      description: 'Intelligent AI agent handles orders, answers questions, and provides 24/7 customer support'
     },
     {
       icon: CreditCard,

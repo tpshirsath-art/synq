@@ -51,7 +51,7 @@ export default function Pricing() {
         'Everything in Growth',
         'Mobile Customer App (Android)',
         'Shiprocket Integration (courier, tracking, COD, and returns setup)',
-        'WhatsApp & Email Notifications (order confirmation, shipment, delivery)',
+        'AI WhatsApp Agent (intelligent order handling & customer support)',
         'Get your customized logo',
         'Performance optimization & automated backups',
         'Dedicated 60-day launch support + training',
