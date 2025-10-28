@@ -115,22 +115,6 @@ export default function Pricing() {
               <div className="text-center mb-8">
                 <h3 className="text-xl md:text-2xl font-bold text-white mb-2">{plan.name}</h3>
                 <p className="text-sm md:text-base text-gray-300 mb-4">{plan.description}</p>
-                
-                <div className="mb-4">
-                  <div className="flex items-center justify-center space-x-2">
-                    <span className="text-3xl md:text-4xl font-bold gradient-text">
-                      {plan.price}
-                    </span>
-                    {plan.originalPrice && (
-                      <span className="text-base md:text-lg text-gray-500 line-through">
-                        {plan.originalPrice}
-                      </span>
-                    )}
-                  </div>
-                  <p className="text-xs md:text-sm text-gray-400 mt-1">
-                    one-time cost
-                  </p>
-                </div>
               </div>
 
               <ul className="space-y-2 md:space-y-3 mb-6 md:mb-8">
