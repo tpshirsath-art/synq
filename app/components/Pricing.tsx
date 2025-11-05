@@ -45,7 +45,7 @@ export default function Pricing() {
     {
       name: 'Build',
       description: 'Most popular for established businesses or growing D2C brands',
-      price: '₹90,000',
+      price: '₹95,000',
       originalPrice: '₹1,10,000',
       features: [
         'Everything in Growth',
@@ -115,6 +115,12 @@ export default function Pricing() {
               <div className="text-center mb-8">
                 <h3 className="text-xl md:text-2xl font-bold text-white mb-2">{plan.name}</h3>
                 <p className="text-sm md:text-base text-gray-300 mb-4">{plan.description}</p>
+                <div className="flex items-center justify-center gap-3 mb-2">
+                  <span className="text-2xl md:text-3xl font-bold text-white">{plan.price}</span>
+                  {plan.originalPrice && (
+                    <span className="text-lg md:text-xl text-gray-500 line-through">{plan.originalPrice}</span>
+                  )}
+                </div>
               </div>
 
               <ul className="space-y-2 md:space-y-3 mb-6 md:mb-8">
