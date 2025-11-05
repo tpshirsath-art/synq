@@ -64,7 +64,7 @@ export default function ProblemSolution() {
     },
     {
       icon: Bot,
-      title: 'AI WhatsApp Agent',
+      title: 'Ai voice agent',
       description: 'Intelligent AI agent handles orders, answers questions, and provides 24/7 customer support'
     },
     {

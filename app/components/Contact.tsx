@@ -206,7 +206,7 @@ export default function Contact() {
                   onChange={handleInputChange}
                   className="w-full px-3 md:px-4 py-2 md:py-3 border border-gray-600 bg-gray-800/50 text-white placeholder-gray-400 rounded-lg focus:ring-2 focus:ring-cyan-500 focus:border-cyan-500 transition-colors text-sm md:text-base"
                 >
-                  <option value="Sprint">Sprint - ₹60,000/month</option>
+                  <option value="Sprint">Sprint - ₹65,000/month</option>
                   <option value="Growth">Growth - ₹75,000/month</option>
                   <option value="Build">Build - ₹90,000/month</option>
                 </select>

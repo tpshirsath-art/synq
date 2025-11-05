@@ -8,7 +8,7 @@ export default function Pricing() {
     {
       name: 'Sprint',
       description: 'Perfect for getting started quickly',
-      price: '₹60,000',
+      price: '₹65,000',
       originalPrice: '₹75,000',
       features: [
         'Custom eCommerce website',
@@ -51,7 +51,7 @@ export default function Pricing() {
         'Everything in Growth',
         'Mobile Customer App (Android)',
         'Shiprocket Integration (courier, tracking, COD, and returns setup)',
-        'AI WhatsApp Agent (intelligent order handling & customer support)',
+        'Ai voice agent',
         'Get your customized logo',
         'Performance optimization & automated backups',
         'Dedicated 60-day launch support + training',
